@@ -1,0 +1,39 @@
+#container{
+    font-family: Arial,sans-serif;
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+    background-color: hsl(0, 0%, 100%);
+    max-width: 350px;
+    margin:auto;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px hsla(0,0%,0%,0.3);
+    
+}
+#fun{
+    color:hsl(210,100%,50%);
+}
+button{
+    font-size: 1.5rem;
+    padding: 10px 15px;
+    border-radius: 10px;
+    border:none;
+    background-color: hsl(210,100%,50%);
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    margin-top: 15px;
+}
+button:hover{
+    background-color: hsl(210,100%,60%);
+}
+button:active{
+    background-color: hsl(210,100%,70%);
+}
+input{
+    font-size: 2rem;
+    width: 150px;
+    text-align: center;
+    font-weight: bold;
+}
