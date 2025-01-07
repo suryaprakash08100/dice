@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/suryaprakash08100/dice/tree/feature/static/css/main.4f7b94ec.css",
+    "main.js": "/suryaprakash08100/dice/tree/feature/static/js/main.a87b2ec5.js",
+    "static/js/488.75f1601f.chunk.js": "/suryaprakash08100/dice/tree/feature/static/js/488.75f1601f.chunk.js",
+    "index.html": "/suryaprakash08100/dice/tree/feature/index.html",
+    "main.4f7b94ec.css.map": "/suryaprakash08100/dice/tree/feature/static/css/main.4f7b94ec.css.map",
+    "main.a87b2ec5.js.map": "/suryaprakash08100/dice/tree/feature/static/js/main.a87b2ec5.js.map",
+    "488.75f1601f.chunk.js.map": "/suryaprakash08100/dice/tree/feature/static/js/488.75f1601f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f7b94ec.css",
+    "static/js/main.a87b2ec5.js"
+  ]
+}
